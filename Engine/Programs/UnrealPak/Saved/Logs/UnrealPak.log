@@ -1,0 +1,130 @@
+﻿Log file open, 04/27/23 13:56:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 6 total threads with 1 sets of task threads.
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll' does not exist
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin OodleData
+LogInit: Build: ++UE4+Release-4.27-CL-17155196
+LogInit: Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU:        Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 4000
+LogInit: Compiled (64-bit): Aug 13 2021 06:39:45
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: pakchunk0-WindowsNoEditor.pak -Extract pakchunk0-WindowsNoEditor -Filter=*.locres
+LogInit: Base Directory: D:/torrents/STAR.WARS.Jedi.Survivor.Deluxe.Edition.Origin.Rip-InsaneRamZes/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../Engine/Programs/UnrealPak/Saved/Config/Windows/Engine.ini]
+[2023.04.27-05.56.32:326][  0]LogInit: Computer: DESKTOP-QLG1R9I
+[2023.04.27-05.56.32:326][  0]LogInit: User: Laptop
+[2023.04.27-05.56.32:326][  0]LogInit: CPU Page size=4096, Cores=2
+[2023.04.27-05.56.32:326][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.04.27-05.56.32:326][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2023.04.27-05.56.32:326][  0]LogMemory: Platform Memory Stats for Windows
+[2023.04.27-05.56.32:326][  0]LogMemory: Process Physical Memory: 18.99 MB used, 18.99 MB peak
+[2023.04.27-05.56.32:326][  0]LogMemory: Process Virtual Memory: 53.61 MB used, 53.61 MB peak
+[2023.04.27-05.56.32:326][  0]LogMemory: Physical Memory: 6249.49 MB used,  1723.99 MB free, 7973.48 MB total
+[2023.04.27-05.56.32:326][  0]LogMemory: Virtual Memory: 134215312.00 MB used,  2413.38 MB free, 134217728.00 MB total
+[2023.04.27-05.56.32:326][  0]LogPaths: Warning: No paths for game localization data were specifed in the game configuration.
+[2023.04.27-05.56.32:326][  0]LogInit: Using OS detected language ().
+[2023.04.27-05.56.32:326][  0]LogInit: Using OS detected locale ().
+[2023.04.27-05.56.32:326][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2023.04.27-05.56.32:326][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2023.04.27-05.56.32:326][  0]LogInit: Using OS detected language ().
+[2023.04.27-05.56.32:326][  0]LogInit: Using OS detected locale ().
+[2023.04.27-05.56.32:326][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2023.04.27-05.56.32:326][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2023.04.27-05.56.32:327][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2023.04.27-05.56.32:327][  0]LogPakFile: Display: Using command line for crypto configuration
+[2023.04.27-05.56.32:360][  0]LogPakFile: PakFile PrimaryIndexSize=1516694
+[2023.04.27-05.56.32:360][  0]LogPakFile: PakFile PathHashIndexSize=1199478
+[2023.04.27-05.56.32:360][  0]LogPakFile: PakFile FullDirectoryIndexSize=2066299
+[2023.04.27-05.56.32:392][  0]LogPakFile: Display: Extracted "Engine/Content/Localization/Engine/en/Engine.locres" to "pakchunk0-WindowsNoEditor/Engine/Content/Localization/Engine/en/Engine.locres" Offset 131072.
+[2023.04.27-05.56.32:395][  0]LogPakFile: Display: Extracted "Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/en/OnlineSubsystem.locres" to "pakchunk0-WindowsNoEditor/Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/en/OnlineSubsystem.locres" Offset 436224.
+[2023.04.27-05.56.32:397][  0]LogPakFile: Display: Extracted "Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/en/OnlineSubsystemUtils.locres" to "pakchunk0-WindowsNoEditor/Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/en/OnlineSubsystemUtils.locres" Offset 438272.
+[2023.04.27-05.56.32:518][  0]LogPakFile: Display: Extracted "SwGame/Content/Localization/Game/en/Game.locres" to "pakchunk0-WindowsNoEditor/SwGame/Content/Localization/Game/en/Game.locres" Offset 1525760.
+[2023.04.27-05.56.32:521][  0]LogPakFile: Display: Extracted "Engine/Content/Localization/Engine/es/Engine.locres" to "pakchunk0-WindowsNoEditor/Engine/Content/Localization/Engine/es/Engine.locres" Offset 16695296.
+[2023.04.27-05.56.32:524][  0]LogPakFile: Display: Extracted "Engine/Content/Localization/Engine/ja/Engine.locres" to "pakchunk0-WindowsNoEditor/Engine/Content/Localization/Engine/ja/Engine.locres" Offset 16754688.
+[2023.04.27-05.56.32:527][  0]LogPakFile: Display: Extracted "Engine/Content/Localization/Engine/ko/Engine.locres" to "pakchunk0-WindowsNoEditor/Engine/Content/Localization/Engine/ko/Engine.locres" Offset 17045504.
+[2023.04.27-05.56.32:529][  0]LogPakFile: Display: Extracted "Engine/Content/Localization/Engine/pt-BR/Engine.locres" to "pakchunk0-WindowsNoEditor/Engine/Content/Localization/Engine/pt-BR/Engine.locres" Offset 17321984.
+[2023.04.27-05.56.32:532][  0]LogPakFile: Display: Extracted "Engine/Content/Localization/Engine/zh-Hans/Engine.locres" to "pakchunk0-WindowsNoEditor/Engine/Content/Localization/Engine/zh-Hans/Engine.locres" Offset 17381376.
+[2023.04.27-05.56.32:534][  0]LogPakFile: Display: Extracted "Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/de/OnlineSubsystem.locres" to "pakchunk0-WindowsNoEditor/Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/de/OnlineSubsystem.locres" Offset 20667732.
+[2023.04.27-05.56.32:536][  0]LogPakFile: Display: Extracted "Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/es-MX/OnlineSubsystem.locres" to "pakchunk0-WindowsNoEditor/Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/es-MX/OnlineSubsystem.locres" Offset 20668416.
+[2023.04.27-05.56.32:538][  0]LogPakFile: Display: Extracted "Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/es/OnlineSubsystem.locres" to "pakchunk0-WindowsNoEditor/Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/es/OnlineSubsystem.locres" Offset 20668862.
+[2023.04.27-05.56.32:541][  0]LogPakFile: Display: Extracted "Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/fr/OnlineSubsystem.locres" to "pakchunk0-WindowsNoEditor/Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/fr/OnlineSubsystem.locres" Offset 20669211.
+[2023.04.27-05.56.32:543][  0]LogPakFile: Display: Extracted "Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/it/OnlineSubsystem.locres" to "pakchunk0-WindowsNoEditor/Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/it/OnlineSubsystem.locres" Offset 20669551.
+[2023.04.27-05.56.32:575][  0]LogPakFile: Display: Extracted "Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/ja/OnlineSubsystem.locres" to "pakchunk0-WindowsNoEditor/Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/ja/OnlineSubsystem.locres" Offset 20669884.
+[2023.04.27-05.56.32:577][  0]LogPakFile: Display: Extracted "Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/ko/OnlineSubsystem.locres" to "pakchunk0-WindowsNoEditor/Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/ko/OnlineSubsystem.locres" Offset 20670464.
+[2023.04.27-05.56.32:579][  0]LogPakFile: Display: Extracted "Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/pl/OnlineSubsystem.locres" to "pakchunk0-WindowsNoEditor/Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/pl/OnlineSubsystem.locres" Offset 20670906.
+[2023.04.27-05.56.32:581][  0]LogPakFile: Display: Extracted "Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/pt-BR/OnlineSubsystem.locres" to "pakchunk0-WindowsNoEditor/Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/pt-BR/OnlineSubsystem.locres" Offset 20671235.
+[2023.04.27-05.56.32:609][  0]LogPakFile: Display: Extracted "Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-Hans/OnlineSubsystem.locres" to "pakchunk0-WindowsNoEditor/Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-Hans/OnlineSubsystem.locres" Offset 20671575.
+[2023.04.27-05.56.32:611][  0]LogPakFile: Display: Extracted "Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/de/OnlineSubsystemUtils.locres" to "pakchunk0-WindowsNoEditor/Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/de/OnlineSubsystemUtils.locres" Offset 20676608.
+[2023.04.27-05.56.32:613][  0]LogPakFile: Display: Extracted "Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/es/OnlineSubsystemUtils.locres" to "pakchunk0-WindowsNoEditor/Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/es/OnlineSubsystemUtils.locres" Offset 20678656.
+[2023.04.27-05.56.32:615][  0]LogPakFile: Display: Extracted "Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/fr/OnlineSubsystemUtils.locres" to "pakchunk0-WindowsNoEditor/Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/fr/OnlineSubsystemUtils.locres" Offset 20680704.
+[2023.04.27-05.56.32:619][  0]LogPakFile: Display: Extracted "Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/it/OnlineSubsystemUtils.locres" to "pakchunk0-WindowsNoEditor/Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/it/OnlineSubsystemUtils.locres" Offset 20682921.
+[2023.04.27-05.56.32:622][  0]LogPakFile: Display: Extracted "Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/ja/OnlineSubsystemUtils.locres" to "pakchunk0-WindowsNoEditor/Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/ja/OnlineSubsystemUtils.locres" Offset 20684800.
+[2023.04.27-05.56.32:624][  0]LogPakFile: Display: Extracted "Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/ko/OnlineSubsystemUtils.locres" to "pakchunk0-WindowsNoEditor/Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/ko/OnlineSubsystemUtils.locres" Offset 20686848.
+[2023.04.27-05.56.32:626][  0]LogPakFile: Display: Extracted "Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/pl/OnlineSubsystemUtils.locres" to "pakchunk0-WindowsNoEditor/Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/pl/OnlineSubsystemUtils.locres" Offset 20688896.
+[2023.04.27-05.56.32:630][  0]LogPakFile: Display: Extracted "Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/pt-BR/OnlineSubsystemUtils.locres" to "pakchunk0-WindowsNoEditor/Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/pt-BR/OnlineSubsystemUtils.locres" Offset 20691016.
+[2023.04.27-05.56.32:632][  0]LogPakFile: Display: Extracted "Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-Hans/OnlineSubsystemUtils.locres" to "pakchunk0-WindowsNoEditor/Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-Hans/OnlineSubsystemUtils.locres" Offset 20692992.
+[2023.04.27-05.56.32:678][  0]LogPakFile: Display: Extracted "SwGame/Content/Localization/Game/de-DE/Game.locres" to "pakchunk0-WindowsNoEditor/SwGame/Content/Localization/Game/de-DE/Game.locres" Offset 20766720.
+[2023.04.27-05.56.32:708][  0]LogPakFile: Display: Extracted "SwGame/Content/Localization/Game/es-ES/Game.locres" to "pakchunk0-WindowsNoEditor/SwGame/Content/Localization/Game/es-ES/Game.locres" Offset 22546432.
+[2023.04.27-05.56.32:741][  0]LogPakFile: Display: Extracted "SwGame/Content/Localization/Game/es-MX/Game.locres" to "pakchunk0-WindowsNoEditor/SwGame/Content/Localization/Game/es-MX/Game.locres" Offset 24328192.
+[2023.04.27-05.56.32:771][  0]LogPakFile: Display: Extracted "SwGame/Content/Localization/Game/fr-FR/Game.locres" to "pakchunk0-WindowsNoEditor/SwGame/Content/Localization/Game/fr-FR/Game.locres" Offset 26103808.
+[2023.04.27-05.56.32:892][  0]LogPakFile: Display: Extracted "SwGame/Content/Localization/Game/it-IT/Game.locres" to "pakchunk0-WindowsNoEditor/SwGame/Content/Localization/Game/it-IT/Game.locres" Offset 27891712.
+[2023.04.27-05.56.32:923][  0]LogPakFile: Display: Extracted "SwGame/Content/Localization/Game/ja-JP/Game.locres" to "pakchunk0-WindowsNoEditor/SwGame/Content/Localization/Game/ja-JP/Game.locres" Offset 29614080.
+[2023.04.27-05.56.32:950][  0]LogPakFile: Display: Extracted "SwGame/Content/Localization/Game/ko/Game.locres" to "pakchunk0-WindowsNoEditor/SwGame/Content/Localization/Game/ko/Game.locres" Offset 31232000.
+[2023.04.27-05.56.32:981][  0]LogPakFile: Display: Extracted "SwGame/Content/Localization/Game/pl-PL/Game.locres" to "pakchunk0-WindowsNoEditor/SwGame/Content/Localization/Game/pl-PL/Game.locres" Offset 32870400.
+[2023.04.27-05.56.33:012][  0]LogPakFile: Display: Extracted "SwGame/Content/Localization/Game/pt-BR/Game.locres" to "pakchunk0-WindowsNoEditor/SwGame/Content/Localization/Game/pt-BR/Game.locres" Offset 34650112.
+[2023.04.27-05.56.33:085][  0]LogPakFile: Display: Extracted "SwGame/Content/Localization/Game/zh-Hans/Game.locres" to "pakchunk0-WindowsNoEditor/SwGame/Content/Localization/Game/zh-Hans/Game.locres" Offset 36366336.
+[2023.04.27-05.56.33:218][  0]LogPakFile: Display: Extracted "SwGame/Content/Localization/Game/zh-Hant/Game.locres" to "pakchunk0-WindowsNoEditor/SwGame/Content/Localization/Game/zh-Hant/Game.locres" Offset 37976064.
+[2023.04.27-05.56.33:249][  0]LogPakFile: Finished extracting 39 (including 0 errors).
+[2023.04.27-05.56.33:251][  0]LogPakFile: Display: Unreal pak executed in 0.923557 seconds
+[2023.04.27-05.56.33:288][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
+[2023.04.27-05.56.33:288][  0]LogExit: Preparing to exit.
+[2023.04.27-05.56.33:289][  0]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (6)
+[2023.04.27-05.56.33:289][  0]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.04.27-05.56.33:289][  0]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.04.27-05.56.33:290][  0]LogExit: Exiting.
+[2023.04.27-05.56.33:322][  0]Log file closed, 04/27/23 13:56:33

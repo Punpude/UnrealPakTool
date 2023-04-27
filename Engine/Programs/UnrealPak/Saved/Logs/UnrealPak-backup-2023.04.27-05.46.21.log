@@ -1,0 +1,90 @@
+﻿Log file open, 04/27/23 13:46:21
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 6 total threads with 1 sets of task threads.
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll' does not exist
+LogPluginManager: Mounting plugin OodleData
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU:        Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 4000
+LogInit: Compiled (64-bit): Oct 11 2020 08:29:47
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: pakchunk0-WindowsNoEditor.pak -Extract pakchunk0-WindowsNoEditor -Filter=*.locres -cryptokeys=Crypto.json
+LogInit: Base Directory: D:/torrents/STAR.WARS.Jedi.Survivor.Deluxe.Edition.Origin.Rip-InsaneRamZes/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../Engine/Programs/UnrealPak/Saved/Config/Windows/Engine.ini]
+[2023.04.27-05.46.21:390][  0]LogInit: Computer: DESKTOP-QLG1R9I
+[2023.04.27-05.46.21:390][  0]LogInit: User: Laptop
+[2023.04.27-05.46.21:390][  0]LogInit: CPU Page size=4096, Cores=2
+[2023.04.27-05.46.21:390][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.04.27-05.46.21:390][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2023.04.27-05.46.21:390][  0]LogMemory: Platform Memory Stats for Windows
+[2023.04.27-05.46.21:390][  0]LogMemory: Process Physical Memory: 17.75 MB used, 17.75 MB peak
+[2023.04.27-05.46.21:390][  0]LogMemory: Process Virtual Memory: 54.03 MB used, 54.03 MB peak
+[2023.04.27-05.46.21:390][  0]LogMemory: Physical Memory: 6324.08 MB used,  1649.40 MB free, 7973.48 MB total
+[2023.04.27-05.46.21:390][  0]LogMemory: Virtual Memory: 4329.79 MB used,  134213400.00 MB free, 134217728.00 MB total
+[2023.04.27-05.46.21:391][  0]LogInit: Using OS detected language ().
+[2023.04.27-05.46.21:391][  0]LogInit: Using OS detected locale ().
+[2023.04.27-05.46.21:391][  0]LogPaths: Warning: No paths for game localization data were specifed in the game configuration.
+[2023.04.27-05.46.21:391][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2023.04.27-05.46.21:391][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2023.04.27-05.46.21:392][  0]LogInit: Using OS detected language ().
+[2023.04.27-05.46.21:392][  0]LogInit: Using OS detected locale ().
+[2023.04.27-05.46.21:392][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2023.04.27-05.46.21:392][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2023.04.27-05.46.21:392][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2023.04.27-05.46.21:393][  0]LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2023.04.27-05.46.21:396][  0]LogFileManager: Error: Requested read of 160 bytes when 159 bytes remain (file=D:\torrents\STAR.WARS.Jedi.Survivor.Deluxe.Edition.Origin.Rip-InsaneRamZes\Jedi Survivor\SwGame\Content\Paks\pakchunk0-WindowsNoEditor.pak, size=-268188359)
+[2023.04.27-05.46.21:441][  0]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
+[2023.04.27-05.46.21:442][  0]LogWindows: Error: === Critical error: ===
+[2023.04.27-05.46.21:442][  0]LogWindows: Error: 
+[2023.04.27-05.46.21:442][  0]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/PakFile/Private/IPlatformFilePak.cpp] [Line: 4965] 
+[2023.04.27-05.46.21:442][  0]LogWindows: Error: Invalid pak file version (11) in 'D:\torrents\STAR.WARS.Jedi.Survivor.Deluxe.Edition.Origin.Rip-InsaneRamZes\Jedi Survivor\SwGame\Content\Paks\pakchunk0-WindowsNoEditor.pak'. Verify your installation.
+[2023.04.27-05.46.21:442][  0]LogWindows: Error: [Callstack] 0x00007ffcf259b0fd UnrealPak-PakFile.dll!UnknownFunction []
+[2023.04.27-05.46.21:442][  0]LogWindows: Error: [Callstack] 0x00007ffcf2588707 UnrealPak-PakFile.dll!UnknownFunction []
+[2023.04.27-05.46.21:442][  0]LogWindows: Error: [Callstack] 0x00007ffcf252edf4 UnrealPak-PakFileUtilities.dll!UnknownFunction []
+[2023.04.27-05.46.21:443][  0]LogWindows: Error: [Callstack] 0x00007ffcf252bdd6 UnrealPak-PakFileUtilities.dll!UnknownFunction []
+[2023.04.27-05.46.21:443][  0]LogWindows: Error: [Callstack] 0x00007ff725b2a5c7 UnrealPak.exe!UnknownFunction []
+[2023.04.27-05.46.21:443][  0]LogWindows: Error: [Callstack] 0x00007ff725b2b338 UnrealPak.exe!UnknownFunction []
+[2023.04.27-05.46.21:443][  0]LogWindows: Error: [Callstack] 0x00007ffd0c5b7614 KERNEL32.DLL!UnknownFunction []
+[2023.04.27-05.46.21:443][  0]LogWindows: Error: [Callstack] 0x00007ffd0c8226a1 ntdll.dll!UnknownFunction []
+[2023.04.27-05.46.21:443][  0]LogWindows: Error: 
+[2023.04.27-05.46.21:443][  0]LogWindows: Error: 
+[2023.04.27-05.46.21:444][  0]LogWindows: Error: 
+[2023.04.27-05.46.21:444][  0]LogWindows: Error: 
+[2023.04.27-05.46.21:473][  0]LogWindows: FPlatformMisc::RequestExit(1)
+[2023.04.27-05.46.21:473][  0]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.04.27-05.46.21:508][  0]Log file closed, 04/27/23 13:46:21
